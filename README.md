@@ -61,10 +61,9 @@ Tenho forte interesse por **Redes de Computadores, Segurança & Automação**. N
 ---
 
 ### 📊 Estatísticas
-
+ 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueviana7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=CBD5E1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueviana7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=CBD5E1" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueviana7&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" />
 </div>
-
 <br/>
